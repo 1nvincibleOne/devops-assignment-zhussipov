@@ -1,0 +1,12 @@
+Internet Protocol Address is a unique address that is used to identify computers or nodes on the internet.
+It is used to locate and find a specific device in the internet in order to request or deliver data.
+
+TCP guarantees the delivery of data to the destination router, has extensive error-checking mechanisms,
+provides flow control and acknowledgement of data.
+TCP has data sequencing and allows retransmission of lost packets.
+UDP is faster, supports broadcasting, is connectionless, capable of delivering data with missing components.
+TCP connection is a byte stream. UDP connection is a message stream.
+
+Turn on two of the three switches. Wait a few minutes. Turn off one of the switches.
+Enter the room with lightbulbs. The lit bulb corresponds with the switch that was left on.
+Touch the other two lightbulbs. The lightbulb that was turned off will be warm.
